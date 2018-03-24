@@ -1,0 +1,7 @@
+.invert-slider {
+  transform: rotateY(180deg);
+}
+
+.text-align-center {
+  text-align: center;
+}
